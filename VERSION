@@ -1,0 +1,17 @@
+commit e6e615616de250dbf19a9c7d3a33b9cc6d951f1f
+Author: Takahiro <hogehoge@gachapin.jp>
+Date:   Tue Jun 22 15:45:45 2021 -0700
+
+    Add WebXR Light estimation support (#2471)
+    
+    * Add WebXR Light estimation support
+    
+    * Remove bangs
+    
+    * Add xr-environment attribute
+    
+    * Add xr-environment attribute to modelviewer.dev/index.html
+    
+    * Clean up features/ar
+    
+    * Remove xr-environment attribute from modelviewer.dev/index.html example and add it to modelviewer.dev/examples/augumentedreality/#ar example instead
